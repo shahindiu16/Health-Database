@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthDatabase", "HealthDatabase\HealthDatabase.csproj", "{73F6A800-9203-4014-89EA-BA4971E41DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F6A800-9203-4014-89EA-BA4971E41DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F6A800-9203-4014-89EA-BA4971E41DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F6A800-9203-4014-89EA-BA4971E41DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F6A800-9203-4014-89EA-BA4971E41DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E75FC1-7F0F-4EFC-82F4-EADFA88D3D42}
+	EndGlobalSection
+EndGlobal
